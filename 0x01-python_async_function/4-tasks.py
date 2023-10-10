@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-
+"""
+This module returns a list of delays in ascending order.
+"""
 import asyncio
 from typing import List
 
